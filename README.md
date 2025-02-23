@@ -1,1 +1,1 @@
-# CyberSecurityInternship
+I was a Reverse Engineering and Malware Analysis Research Intern at KJ Somaiya College of Engineering, Mumbai, India under the guidance of Prof. Anooja Joy. This repository contains the documentation for all the work i did during this internship.
